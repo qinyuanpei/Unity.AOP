@@ -1,0 +1,11 @@
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\Unity.AOP.Sample.exe.config
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\Unity.AOP.Sample.exe
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\Unity.AOP.Sample.pdb
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\CommonServiceLocator.dll
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\bin\Debug\CommonServiceLocator.pdb
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\obj\Debug\Unity.AOP.Sample.exe
+E:\Projects\Unity.AOP.Sample\Unity.AOP.Sample\obj\Debug\Unity.AOP.Sample.pdb
